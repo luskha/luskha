@@ -47,8 +47,7 @@
 </div>
 
 ###
+ 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xv7sp3wlioij421bg191j9ogk&width=1000)
 
 ![Snake animation](https://github.com/luskha/luskha/blob/output/snake.svg)
-
- 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xv7sp3wlioij421bg191j9ogk)
