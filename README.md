@@ -48,7 +48,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/luskha/luskha/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
