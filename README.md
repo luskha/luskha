@@ -48,14 +48,7 @@
 
 ###
 
-![Snake animation](https://github.com/AnaBeaVasconcelos/AnaBeaVasconcelos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luskha/luskha/blob/output/github-contribution-grid-snake.svg)
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/xv7sp3wlioij421bg191j9ogk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xv7sp3wlioij421bg191j9ogk)
